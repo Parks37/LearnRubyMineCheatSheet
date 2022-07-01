@@ -77,7 +77,7 @@
 |--|--|
 |`⌘ Cmd` `K` | Stage commit |
 |`⌘ Cmd` `⇧ Shift` `K` | `Push` dialog |
-`⌘ Cmd` `T`| `Update Project` dialog
+|`⌘ Cmd` `T`| `Update Project` dialog|
 | `⌘ Cmd` `9` | Open Commit History | 
 
 In rebasing commits dialog
