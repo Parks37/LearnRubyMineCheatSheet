@@ -1,5 +1,10 @@
-# Learn Ruby Mine Recap
+# Learn Ruby Mine Cheetsheet
 
+<table border="0">
+ <tr>
+    <td>
+    
+    
 ### Editor Basics
 | Shortcut | Action |
 |--|--|
@@ -29,6 +34,10 @@
 | `.if` or `.while` etc.| Wrap a fragment in an `if` or `while` |
 
 
+</td>
+<td>
+
+
 
 ### Refactoring
 
@@ -54,6 +63,22 @@
 | `⌘ Cmd` `F1` | Error popup |
 | `⌘ Cmd` `⇧ Shift` `F7` | Highlight all instances of selection |
 
+### Git 
+
+| Shortcut | Action |
+|--|--|
+|`⌘ Cmd` `K` | Stage commit |
+|`⌘ Cmd` `⇧ Shift` `K` | `Push` dialog |
+|`⌘ Cmd` `T`| `Update Project` dialog|
+| `⌘ Cmd` `9` | Open Commit History | 
+
+
+</td>
+ </tr>
+ <tr>
+
+<td>
+
 ### Navigation
 | Shortcut | Action |
 |--|--|
@@ -70,23 +95,18 @@
 | `⌘ Cmd` `F7` | File structure sidebar |
 | `⌘ Cmd` `E` | Recent files popover |
 | `⌘ Cmd` `⇧ Shift` `E` | Recent changes popover |
+</td>
 
-### Git 
+<td>
 
-| Shortcut | Action |
-|--|--|
-|`⌘ Cmd` `K` | Stage commit |
-|`⌘ Cmd` `⇧ Shift` `K` | `Push` dialog |
-|`⌘ Cmd` `T`| `Update Project` dialog|
-| `⌘ Cmd` `9` | Open Commit History | 
 
-In rebasing commits dialog
-| Shortcut | Action |
-|--|--|
-|`⌥ Opt` `↑` | Move selected commit(s)|
-|`⌥ Opt` `F` | `Fixup` commit  |
-| `⌥ Opt` `P` | `Pick` commit |
-| `⌥ Opt` `S` | `Squash` commits |
+
+</td>
+</tr>
+</table>
+
+
+
 
 
 
